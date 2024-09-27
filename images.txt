@@ -1,7 +1,6 @@
 nginx:1.20
 nginx:1.22
 nginx:latest
-httpd:latest
 mysql:8.0
 grafana/grafana:latest
 prom/node-exporter:latest
