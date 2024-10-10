@@ -1,5 +1,4 @@
 nginx:1.20
-nginx:1.22
 nginx:latest
 mysql:8.0
 grafana/grafana:10.0.9
